@@ -1,6 +1,7 @@
-![MasterHead](https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1)
+![MasterHead](https://i.pinimg.com/originals/38/d3/0e/38d30ecfe41c21551c043443d330d637.gif)
 <h1 align="center">Hi 👋, I'm Matías Rivero</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5a/10/53/5a105381eed609b127ec423c337f64e3.gif">
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **matiasariveros.cinco@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **Pixel Art Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
