@@ -1,10 +1,10 @@
-[![MasterHead]([https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1))]
+[![MasterHead](https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1)]
 <h1 align="center">Hi 👋, I'm Matías Rivero</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **HTML**, **CSS**, **Javascript**, **React.js**
 
 - 📫 How to reach me **matiasariveros.cinco@gmail.com**
 
